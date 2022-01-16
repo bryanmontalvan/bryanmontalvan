@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanmontalvan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/bryanmontalv/github-readme-stats)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanmontalvan)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **bryanmontalvan/bryanmontalvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
