@@ -1,6 +1,6 @@
 <h4 align="center">Web fanatic, student, intern, and soon to be professional</h4>
 <hr>
-    <h3 align="center">Recently used technnologies</h3>
+    <h3 align="center">Technologies I've used:/h3>
 <p align="center"> 
 <!--  Langauges  -->
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
