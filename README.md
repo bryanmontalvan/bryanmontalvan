@@ -1,4 +1,3 @@
-<h2 align="center">Web fanatic, student, intern, and soon to be professional</h4>
 <h3 align="center">Languages I've used</h3>
 <p align="center"> 
 <!--  Langauges  -->
